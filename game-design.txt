@@ -1,2 +1,9 @@
-MAGIC-MATH es un videojuego educativo diseñado para enseñar MATEMATICAS a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. La historia se desarrolla en EL CAMPO, un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
 
+MAGIC-MATH es un videojuego educativo diseñado para enseñar MATEMATICAS a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. La historia se desarrolla en EL CAMPO, un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
+El  jugador  Debe pasar de nivel para avanzar al siguiente el cual consiste en PASAR EL RIO de numeros mediante las operaciones inscritas en cada piedra del rio:
+ para el personaje poder avanzar deberá pasar el rio ileso  y haber copmpletado el primer nivel  PASAR EL BOSQUE y los desafíos incluirán TIPO DE DESAFÍOS:
+* En la primera piedra hay 5 arañas muy peligrosas, cuantas flechas se necesita para matarlas?
+cuando mueren las arañas desprenden a 3 hijos cada una a la siguiente piedra, donde hay otras 10 bichos:
+*cuantos flechas mas debo tener para eliminar la amenaza y poder pasar al siguiente nivel?
+EL jugador para llegar a un lugar seguro debe atravezar los desafiios del bosque resolviendo operaciones matematicas.
+Los estudiantes avanzarán mediante LOS NIVELES. Cada nivel representa OPERACIONES MATEMATICAS MEDIANTE DESAFIOS, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.>>>>>>> main
