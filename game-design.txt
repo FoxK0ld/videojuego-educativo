@@ -1,18 +1,28 @@
+MAGIC-MATH es un videojuego educativo diseñado para enseñar MATEMATICAS a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. 
+La historia se desarrolla en EL CAMPO, un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje.
+Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran,
+resuelven problemas y superan obstáculos.
 
+El protagonista de esta aventura es Geralt de Rivia, un/a Geralt tiene una altura aproximada de 1.9 metros, es de contextura media, su cabello es largo color 
+cenizo y ojos amarillos. Geralt es un/a Profesor que ha sido elegido/a para una misión única: enseñar matemáticas a una nueva generación de mentes brillantes... 
+Antes de que sea demasiado tarde. Con su don de persuación, Geralt deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los 
+jugadores conceptos clave de Matemáticas.
 
-
-
-
-
-MAGIC-MATH es un videojuego educativo diseñado para enseñar MATEMATICAS a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante. La historia se desarrolla en EL CAMPO, un mundo lleno de misterios, desafíos y personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
-
-El protagonista de esta aventura es Geralt de Rivia, un/a Geralt  tiene una altura aproximada de 1.9 metros, es de contextura media, su cabello es largo color cenizo y ojos amarillos. Geralt es un/a Profesor que ha sido elegido/a para una misión única: enseñar matemáticas a una nueva generación de mentes brillantes... antes de que sea demasiado tarde. Con su don de persuación, Geralt deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a los jugadores conceptos clave de Matemáticas.
-
-El  jugador  Debe pasar de nivel para avanzar al siguiente el cual consiste en PASAR EL RIO de numeros mediante las operaciones inscritas en cada piedra del rio:
- para el personaje poder avanzar deberá pasar el rio ileso  y haber copmpletado el primer nivel  PASAR EL BOSQUE y los desafíos incluirán TIPO DE DESAFÍOS:
-* En la primera piedra hay 5 arañas muy peligrosas, cuantas flechas se necesita para matarlas?
+El  jugador  Debe pasar de nivel para avanzar al siguiente el cual consiste en pasar el rio de numeros mediante las operaciones inscritas en cada piedra del rio:
+para el personaje poder avanzar deberá pasar el rio ileso  y haber copmpletado el primer nivel  pasar el bosque y los desafíos incluirán tipo de desafio:
+En la primera piedra hay 5 arañas muy peligrosas, cuantas flechas se necesita para matarlas?
 cuando mueren las arañas desprenden a 3 hijos cada una a la siguiente piedra, donde hay otras 10 bichos:
-*cuantos flechas mas debo tener para eliminar la amenaza y poder pasar al siguiente nivel?
+cuantos flechas mas debo tener para eliminar la amenaza y poder pasar al siguiente nivel?
 EL jugador para llegar a un lugar seguro debe atravezar los desafiios del bosque resolviendo operaciones matematicas.
-Los estudiantes avanzarán mediante LOS NIVELES. Cada nivel representa OPERACIONES MATEMATICAS MEDIANTE DESAFIOS, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.>>>>>>> main
+Los estudiantes avanzarán mediante los niveles. 
+Cada nivel representa operaciones matematicas mediante desafios, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, 
+lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 
+Los jugadores aprenderán sumas y restas mediante desafíos matemáticos interactivos en los niveles del bosque y el río. 
+Se reforzará la multiplicación y división a través de minijuegos donde deberán calcular rápidamente para esquivar obstáculos y avanzar y las evaluaciones, 
+se realizarán mediante pruebas dinámicas al final de cada nivel, donde los jugadores deberán resolver una serie de operaciones antes de continuar, 
+lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
+
+El juego se desarrollará usando la librería LWGL y lenguaje de programación java y tendrá soporte para PC y dispositivos móviles (Android, Apple),
+Además, se implementarán características como sistema de recompensas y logros para motivar a los jugadores, gráficos animados en 2D con efectos visuales llamativos. 
+para garantizar una experiencia de juego fluida y atractiva.
